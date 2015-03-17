@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">StreetlineParkingCodingTest</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="str_ok">OK</string>
+    <string name="str_back">Back</string>
+    <string name="error_title">Bad Error</string>
+    <string name="error_message">A non-recoverable error has occurred.</string>
+    <string name="traffic_url">http://parker2.api.streetlinenetworks.com/api/testing/availability/f3/la/availability.json?decode=true</string>
+    <string name="str_block">Block:</string>
+    <string name="str_space_available_prepend">There are </string>
+    <string name="str_space_available_postpend"> spaces available in </string>
+    
+</resources>
